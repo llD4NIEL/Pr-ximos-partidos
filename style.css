@@ -6,8 +6,16 @@ body{
 }
 
 
-#div{
+div{
   
   width: 100px ;
   height: 50px ;
+}
+
+
+#nombre_del_primer_equipo{
+
+  display: inline-block;
+  
+
 }
