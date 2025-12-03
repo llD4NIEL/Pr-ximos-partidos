@@ -1,8 +1,20 @@
 [
     {
-        "partido": "miami vs psg" , "hora": "17:00"  
+        "partido": ["miami","psg"] , "hora": 17  
     },
     {
-        
-    }
+        "partido": ["boca" , "river"], "hora": 4 
+    },
+    {
+        "partido": ["liverpool","real madrid"], "hora": 12
+    },
+    {
+        "partido": ["barcelona","manchester city"]
+    },
+
+
+    
+
+
+
 ]
