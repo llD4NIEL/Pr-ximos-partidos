@@ -10,11 +10,25 @@
     },
     {
         "partido": ["barcelona","manchester city"], "hora": 14
+    },
+    {    
+        "partido":["arsenalal","chelse"], "hora": 19
+    },
+    {
+        "partido":["inter","BVB"], "hora": 21
+    },
+    {
+        "partido":["manchester united","guarani"], "hora": 6
+    },
+    {
+        "partido":["cerro porteño","olimpia"], "hora": 9
+    },
+    {
+        "partido":["juventus","torino"], "hora": 16
+    },
+    {
+        "partido":["Montevideo City Torque","peñarol"], "hora": 23
     }
-
-
-    
-
 
 
 ]
