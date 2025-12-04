@@ -7,7 +7,7 @@ const hora = document.getElementById('hora');
 // ======FUNCION PARA CARGAR DATOS DESDE JSON============================================
 
 
-fetch('/partidos.json').then(response => response.json()).then(data=>{
+fetch('partidos.json').then(response => response.json()).then(data=>{
     data.sort((a,b)=> a.hora - b.hora);
 
 
