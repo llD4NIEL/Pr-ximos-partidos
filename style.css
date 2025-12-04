@@ -15,8 +15,26 @@ div{
 
 #nombre_del_primer_equipo{
 
-  display: inline-block;
+  display: inline-block
   
   
 
+}
+
+
+
+
+
+#foto_del_primer_equipo{
+  background-color: rgb(15, 91, 158);
+  width: 200px ;
+  height: 60px ;
+
+}
+
+
+#foto_del_segundo_equipo{
+  background-color: rgb(0, 255, 76);
+  width: 200px ;
+  height: 40px ;
 }
